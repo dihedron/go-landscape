@@ -1,6 +1,6 @@
 module github.com/dihedron/go-landscape
 
-go 1.19
+go 1.23.0
 
 require (
 	github.com/dihedron/go-log-facade v0.0.0-20220912163309-7011baef002b
@@ -8,6 +8,6 @@ require (
 )
 
 require (
-	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
